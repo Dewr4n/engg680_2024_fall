@@ -19,3 +19,4 @@ The following Python notebooks provide examples of programming concepts covered 
 9. **Numpy Demo**: Introduces fundamental operations with the Numpy library in Python. It covers the creation and manipulation of arrays, including operations such as reshaping, broadcasting, and mathematical functions.
 10. **Matplotlib Demo**: Covers essential plotting techniques using the Matplotlib library, including 2D and 3D plots, heatmaps, histograms, and interactive elements.
 11. **Function Demo**: Covers function creation and usage in Python, including arithmetic operations, lambda functions, generators, decorators, and examples of using keyword arguments and logging. this is our first lab assigment.
+ Checking our 1st lab assigment.
