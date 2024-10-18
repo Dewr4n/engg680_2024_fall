@@ -6,4 +6,4 @@ De-graft Godwyll 30263217
 
 Kwadwo Asare-Menako 30256351
 
-This assignment is about learning how to use GitHub and Google Colab to colaborate with group members remotely, and it aims to help students to promote teamwork, learn to separate the tasks and work together. The main task in this assignment is to finish the notebook coding, which is about the python knowledge we just learnt, python data types, functions, class and libraries.
+This assignment is about understanding the fundamental principles of LSE, and programming practical Non-linear LSE problem using Python. This assignment help us to be familiar with common techniques in python. Same as lab assignment 1, group members should use git to collaborate.
