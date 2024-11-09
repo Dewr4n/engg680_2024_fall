@@ -6,4 +6,4 @@ De-graft Godwyll 30263217
 
 Kwadwo Asare-Menako 30256351
 
-This assignment is about understanding the fundamental principles of LSE, and programming practical Non-linear LSE problem using Python. This assignment help us to be familiar with common techniques in python. Same as lab assignment 1, group members should use git to collaborate.
+This assignment is about understanding and implementing gradient descent, and also understand and apply logistic regression for binary classification using Python. This assignment helps us to be familiar with common techniques in python. Same as lab assignment 1, group members should use git to collaborate.
